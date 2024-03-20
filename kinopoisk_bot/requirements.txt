@@ -1,0 +1,3 @@
+pyTelegramBotAPI==4.7.1
+requests == 2.27.1
+keyboa == 2.2.8
